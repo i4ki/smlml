@@ -1,0 +1,3 @@
+
+all:
+	mlton matrix.sml
